@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models and raw data (not published)
+*.pkl
+*.csv
