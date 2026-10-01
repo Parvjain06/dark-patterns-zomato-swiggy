@@ -2,7 +2,7 @@
 
 A survey-based study of how manipulative design ("dark patterns") on Zomato and Swiggy affects what people order and spend.
 
-**Live site:** _add your GitHub Pages link here_
+**Live site:** (https://parvjain06.github.io/dark-patterns-zomato-swiggy/)
 
 ## Research question
 
